@@ -180,6 +180,7 @@ const Form = {
         Form.description.value = ''
         Form.amount.value = ''
         Form.date.value = ''
+        Form.select.value = ''
     },
 
     submit(event) {
